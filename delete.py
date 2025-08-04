@@ -1,1 +1,1 @@
-print("New delete file")
+print("New delete")
